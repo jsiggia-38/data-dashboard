@@ -1,0 +1,64 @@
+body {
+  background-image: url(../images/comic-background.jpeg);
+  background-size: cover;
+}
+
+
+
+
+.table-data {
+  color: white;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(0, 255, 0, 0.8);
+  background-size: 100px;
+  border-radius: 15px;
+  
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+
+}
+
+.row {
+  margin: 0 -5px;
+
+
+
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+.statistic {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: rgb(0, 255, 0, 0.8);
+  border-radius: 15px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.search-box {
+  text-align: center;
+  
+}
