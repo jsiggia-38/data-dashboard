@@ -62,3 +62,32 @@ body {
   text-align: center;
   
 }
+
+.line-chart-data {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+.bar-chart-data {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border-radius: 15px;
+  margin-top: 10px;
+
+
+
+}
+
+
+.scatter-chart-data {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border-radius: 15px;
+  margin-top: 10px;
+
+}

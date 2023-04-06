@@ -1,0 +1,23 @@
+.character-details {
+    text-align: center;
+}
+
+.character-name {
+    color: chartreuse;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.character-description {
+    color: chartreuse;
+    font-weight: bold;
+    
+}
+
+.home-link {
+    text-align: center;
+}
+
+.character-pic {
+    border-radius: 15px;
+}
